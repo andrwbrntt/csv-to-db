@@ -1,2 +1,4 @@
-# csv-to-db
-A simple program to convert .csv files to .db files
+# .csv to .db converter
+The goal of this project was to create a simple program that allows a user
+to select a .csv file, preview and confirm its contents, lightly clean the
+headers, and convert it into a .db file.
